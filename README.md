@@ -1,1 +1,1 @@
-# original_root
+# Edge-Cloud Hybrid Multimodal Surveillance
