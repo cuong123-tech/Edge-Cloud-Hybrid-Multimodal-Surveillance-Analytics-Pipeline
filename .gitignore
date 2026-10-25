@@ -9,6 +9,7 @@ __pycache__/
 dist/
 build/
 
+
 # Node
 node_modules/
 dist/
@@ -31,3 +32,6 @@ Thumbs.db
 reports/
 *.onnx
 *.pt
+
+# docs
+docs/
